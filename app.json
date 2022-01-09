@@ -7,13 +7,13 @@
     ],
     "stack": "container",
     "env": {
-        "ASENA_SESSION": {
-            "description": "Enter whatsapp web session.",
+        "BROT_SESSION": {
+            "description": "Enter whatsapp web Brot🌱 session.",
             "required": true
         },
         "SUDO": {
             "description": "Sudo mode, Your number must be an international number. So you should have your number after the country code. Example: 918330044365(IN)",
-            "required": false
+            "required": 918330044365
         },
         "HANDLERS": {
             "description": "enter prefix.",
