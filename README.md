@@ -18,7 +18,7 @@ This is a Userbot based on WhatsAsena written by [Yusuf Usta](https://github.com
    <br>
    <a href="https://chat.whatsapp.com/KA9zgz1gvN03LmwtQTJJZR"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
    <br>
-   <a href="https://github.com/lyfe00011/whatsapp-bot/wiki/"><img src="https://img.shields.io/badge/plugins-blue?style=for-the-badge&logo=appveyor%22"/></a>
+   <a href="https://github.com/Brot/whatsapp-bot/wiki/"><img src="https://img.shields.io/badge/plugins-blue?style=for-the-badge&logo=appveyor%22"/></a>
 
 <!--
 [![Run on Repl.it](https://replit.com/badge/github/lyfe00011/whatsapp-bot)](https://replit.com/@Nightbot2O/baileys-qr)
@@ -107,5 +107,5 @@ This is a Userbot based on WhatsAsena written by [Yusuf Usta](https://github.com
 
 ## Thanks To
 
-- [Yusuf Usta](https://github.com/Quiec) for [WhatsAsena](https://github.com/yusufusta/WhatsAsena)
+- [Yusuf Usta](https://github.com/Quiec) for [WhatsAsena](https://github.com/AdwaithVarma2006/WhatsAsena)
 - [@adiwajshing](https://github.com/adiwajshing) for [Baileys](https://github.com/adiwajshing/Baileys)
