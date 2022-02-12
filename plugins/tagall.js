@@ -16,7 +16,7 @@ const s = "```"
 // const config = require('../config');
 Asena.addCommand(
   {
-    pattern: "tag ?(.*)",
+    pattern: "tag ?(#*)",
     fromMe: true,
     onlyGroup: true,
     desc: Lang.TAGALL_DESC,
